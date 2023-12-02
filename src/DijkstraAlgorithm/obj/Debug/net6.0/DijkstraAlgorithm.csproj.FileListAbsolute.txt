@@ -1,0 +1,15 @@
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.exe
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.deps.json
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.runtimeconfig.json
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.dll
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\bin\Debug\net6.0\DijkstraAlgorithm.pdb
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.AssemblyInfo.cs
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.dll
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\refint\DijkstraAlgorithm.dll
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.pdb
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\DijkstraAlgorithm.genruntimeconfig.cache
+C:\Users\Alex L\Documents\GitHub\DL_Project_AlexanderLeontiev\src\DijkstraAlgorithm\obj\Debug\net6.0\ref\DijkstraAlgorithm.dll
