@@ -11,4 +11,4 @@
 * Documentation [here](/docs/)
 
 #### YouTube Vide Presentation
-* Here is [link](https://www.youtube.com/watch?v=fd7azm0_aSM)
+* Here is the [link](https://www.youtube.com/watch?v=fd7azm0_aSM)
